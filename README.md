@@ -175,34 +175,3 @@ POST http://127.0.0.1:8000/predict_VGG19/api/
 
 ## Compatibility
 Support to Django>=2.1.5 or Django==3.0.0 and Python 3.5, 3.6, 3.7.
-
-## Issue
-If you have questions or issues, please feel free to tell us.
-## Contribution
-Welcome to make pull request. If you have a related project/component/tool, add it with a pull request to add it!
-
-## Others
-
-**Admin Account**
-``` 
-python manage.py createsuperuser
-
-username: ranxiaolang
-email: YOUR EMAIL  
-password: ranxiaolang  
-```
-Access the web page though this link: http://127.0.0.1:8000/admin 
-
-**Django Restframework**
-
-Access the web page though this link: http://127.0.0.1:8000/iot/
-
-## Contributors
-
-[@nature1995](http://ranxiaolang.com)  
-
-[@sergulaydore](https://sergulaydore.com)  
-
-## License
-
-[MIT](LICENSE) ©
